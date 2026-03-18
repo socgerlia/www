@@ -132,6 +132,10 @@ h2::after {
     transform: scale(1.05);
 }
 
+.game-card.featured .card-content h3 {
+    color: #e74c3c;
+}
+
 .card-content {
     padding: 1.5rem;
 }
